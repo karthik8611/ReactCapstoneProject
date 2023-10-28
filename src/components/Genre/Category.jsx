@@ -8,7 +8,7 @@ import music from '../../assets/music.png'
 import romance from '../../assets/romance.png'
 import thriller from '../../assets/thriller.png'
 import western from '../../assets/western.png'
-// import Chips from '../Global/Chips'
+import Chips from '../Global/Chips'
 import { useState, useEffect } from 'react'
 import { useNavigate } from 'react-router-dom'
 const genres = [
